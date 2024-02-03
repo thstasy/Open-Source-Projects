@@ -13,5 +13,5 @@ a log that describes my participation in open-course-projects.
 7. Tsunami Security Scanner(https://github.com/google/tsunami-security-scanner)
 8. Signal Android (https://github.com/signalapp/Signal-Android)
 
-###special thanks to ***https://www.upgrad.com/blog/java-open-source-projects/***
+## special thanks to ***https://www.upgrad.com/blog/java-open-source-projects/***
 

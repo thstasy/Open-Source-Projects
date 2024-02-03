@@ -2,6 +2,7 @@
 a log that describes my participation in open-course-projects.
 
 # OpenAstronomy
+1. Galaxy Zoo (https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/)
 
 # Popular projects on GitHub
 1. Java Design Patterns (https://github.com/iluwatar/java-design-patterns）
